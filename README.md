@@ -28,3 +28,6 @@ Configuring the countdown is simple, like in the example.html-file, you will fin
   </script>
   <script src="countdown.js"></script>
 ```
+
+## License
+This work is protected by the GNU GENERAL PUBLIC license.
